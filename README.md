@@ -43,3 +43,7 @@ TODO
 ## <a name="NLP">3. NLP
 - [NLP-Caffe](https://github.com/Russell91/nlpcaffe)
 - [Sentiment Analysis](http://city.shaform.com/blog/2015/06/06/caffe-sentiment-analysis.html)
+
+## <a name="Speech">3. Speech
+- [Speech Recognition](https://github.com/pannous/caffe-speech-recognition)
+- [Kaldi](https://github.com/kaldi-asr/kaldi)
