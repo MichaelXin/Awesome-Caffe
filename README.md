@@ -36,6 +36,9 @@ If you want to contribute to this list and the examples, please open a new pull 
 
 TODO
 
-
+### 2.5 Action Recognition
+- [C3D](https://github.com/facebook/C3D)
+- [LRCN](https://github.com/LisaAnne/lisa-caffe-public/tree/lstm_video_deploy)
+ 
 ## <a name="NLP">3. NLP
 - [NLP-Caffe](https://github.com/Russell91/nlpcaffe)
