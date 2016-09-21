@@ -4,7 +4,7 @@ This page contains a curated list of awesome Caffe examples, tutorials and blogs
 
 ## <a name="Contributing"></a>Contributing
 
-If you want to contribute to this list and the examples, please open a new pull request.
+If you want to contribute to this list and the examples, please open a new pull request, or send e-mails to (service@caffecn.cn).
 
 ## Outline
 - [Tutorials](#Tutorials)
