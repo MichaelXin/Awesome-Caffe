@@ -31,5 +31,10 @@ If you want to contribute to this list and the examples, please open a new pull 
 ### 2.3 Image Segmentation
 - [Fully Convolutional Networks for Semantic Segmentation](https://github.com/shelhamer/fcn.berkeleyvision.org)
 
+### 2.4 Face Recognition
+
+TODO
+
+
 ## <a name="NLP">3. NLP
 - [NLP-Caffe](https://github.com/Russell91/nlpcaffe)
