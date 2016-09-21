@@ -22,10 +22,14 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [GoogleNet-V2](https://github.com/lim0606/caffe-googlenet-bn)
 
 ### 2.2 Object Detection
+- [R-FCN](https://github.com/daijifeng001/R-FCN)
 - [SSD: Single Shot MultiBox Detector](https://github.com/weiliu89/caffe/tree/ssd)
 - [YOLO in caffe](https://github.com/xingwangsfu/caffe-yolo)
 - [Faster R-CNN](https://github.com/rbgirshick/py-faster-rcnn)
 - [Fast R-CNN](https://github.com/rbgirshick/fast-rcnn)
+
+### 2.3 Image Segmentation
+- [Fully Convolutional Networks for Semantic Segmentation](https://github.com/shelhamer/fcn.berkeleyvision.org)
 
 ## <a name="NLP">3. NLP
 - [NLP-Caffe](https://github.com/Russell91/nlpcaffe)
