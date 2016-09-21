@@ -42,3 +42,4 @@ TODO
  
 ## <a name="NLP">3. NLP
 - [NLP-Caffe](https://github.com/Russell91/nlpcaffe)
+- [Sentiment Analysis](http://city.shaform.com/blog/2015/06/06/caffe-sentiment-analysis.html)
