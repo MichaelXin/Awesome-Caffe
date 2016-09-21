@@ -8,6 +8,10 @@ This page contains a curated list of awesome Caffe examples, tutorials and blogs
 - [Tutorial Documentation (CN)](http://caffecn.cn/?/page/tutorial)
 
 ## Vision
+### Image Classification
+
+### Object Detection
+- [YOLO in caffe](https://github.com/xingwangsfu/caffe-yolo)
 
 ## NLP
 
