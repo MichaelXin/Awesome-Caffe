@@ -9,6 +9,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 ## Outline
 - [Tutorials](#Tutorials)
 - [Vision](#Vision)
+- [NLP](#NLP)
 
 ## <a name="Tutorials"></a>1. Tutorials
 - [DIY Deep Learning for Vision with Caffe](https://docs.google.com/presentation/d/1UeKXVgRvvxg9OUdh_UiC5G71UMscNPlvArsWER41PsU/edit#slide=id.p)
@@ -24,5 +25,5 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [Faster R-CNN](https://github.com/rbgirshick/py-faster-rcnn)
 - [Fast R-CNN](https://github.com/rbgirshick/fast-rcnn)
 
-## 3. NLP
+## <a name="NLP">3. NLP
 - [NLP-Caffe](https://github.com/Russell91/nlpcaffe)
