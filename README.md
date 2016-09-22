@@ -29,6 +29,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [Fast R-CNN](https://github.com/rbgirshick/fast-rcnn)
 
 ### 2.3 Image Segmentation
+- [CRF-RNN](https://github.com/torrvision/crfasrnn)
 - [DeconvNet: Learning Deconvolution Network for Semantic Segmentation](https://github.com/HyeonwooNoh/DeconvNet)
 - [Fully Convolutional Networks for Semantic Segmentation](https://github.com/shelhamer/fcn.berkeleyvision.org)
 
