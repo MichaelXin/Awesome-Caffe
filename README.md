@@ -41,6 +41,9 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [C3D](https://github.com/facebook/C3D)
 - [LRCN](https://github.com/LisaAnne/lisa-caffe-public/tree/lstm_video_deploy)
  
+### 2.6 Object Tracking
+- [FCNT](https://github.com/scott89/FCNT)
+
 ## <a name="NLP">3. NLP
 - [NLP-Caffe](https://github.com/Russell91/nlpcaffe)
 - [Sentiment Analysis](http://city.shaform.com/blog/2015/06/06/caffe-sentiment-analysis.html)
