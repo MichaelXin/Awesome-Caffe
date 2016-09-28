@@ -76,9 +76,12 @@ If you want to contribute to this list and the examples, please open a new pull 
 ### 5.2 LabelImg
 - [LabelImg](https://github.com/tzutalin/labelImg)
 
-### 5.3 Mobile Platform
-- [caffe-android-lib ](https://github.com/sh1r0/caffe-android-lib)
+### 5.3 Visualization
+- [deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox)
 
-### 5.4 Distributed computing
+### 5.4 Mobile Platform
+- [caffe-android-lib](https://github.com/sh1r0/caffe-android-lib)
+
+### 5.5 Distributed computing
 - [SparkNet](https://github.com/amplab/SparkNet)
 - [petuum/bosen ](https://github.com/petuum/bosen)
