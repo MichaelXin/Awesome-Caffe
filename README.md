@@ -1,4 +1,4 @@
-# Awesome-Caffe  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jtoy/awesome)
+# Awesome Caffe  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jtoy/awesome)
 
 This page contains a curated list of awesome Caffe examples, tutorials and blogs. It is inspired by awesome-php and awesome-machine-learning.
 
@@ -47,7 +47,6 @@ If you want to contribute to this list and the examples, please open a new pull 
 
 ### 2.5 Action Recognition
 - [C3D](https://github.com/facebook/C3D)
-- [DeepConvLSTM](https://github.com/sussexwearlab/DeepConvLSTM)
 - [TDD](https://github.com/wanglimin/TDD)
 - [LRCN](https://github.com/LisaAnne/lisa-caffe-public/tree/lstm_video_deploy)
  
