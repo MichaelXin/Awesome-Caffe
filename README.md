@@ -25,6 +25,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [Deep Residual Networks](https://github.com/KaimingHe/deep-residual-networks)
 - [Highway Networks](https://github.com/flukeskywalker/highway-networks)
 - [Deep-Compression-AlexNet](https://github.com/songhan/Deep-Compression-AlexNet)
+- [SqueezeNet](https://github.com/DeepScale/SqueezeNet)
 - [GoogleNet-V2](https://github.com/lim0606/caffe-googlenet-bn)
 
 
@@ -84,4 +85,8 @@ If you want to contribute to this list and the examples, please open a new pull 
 
 ### 5.5 Distributed computing
 - [SparkNet](https://github.com/amplab/SparkNet)
+- [CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
 - [petuum/bosen ](https://github.com/petuum/bosen)
+
+### 5.6 Net Builder
+- [pynetbuilder](https://github.com/jay-mahadeokar/pynetbuilder)
