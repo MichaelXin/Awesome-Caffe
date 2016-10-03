@@ -6,7 +6,7 @@ This page contains a curated list of awesome Caffe examples, tutorials and blogs
 
 If you want to contribute to this list and the examples, please open a new pull request, or send E-mails to (service@caffecn.cn).
 
-## Outline
+## Table of Contents
 - [1. Tutorials](#Tutorials)
 - [2. Vision](#Vision)
 - [3. NLP](#NLP)
@@ -78,6 +78,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 
 ### 5.3 Visualization
 - [deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox)
+- [DeepDraw](https://github.com/auduno/deepdraw)
 
 ### 5.4 Mobile Platform
 - [caffe-android-lib](https://github.com/sh1r0/caffe-android-lib)
