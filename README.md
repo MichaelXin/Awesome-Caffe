@@ -82,6 +82,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 
 ### 5.4 Mobile Platform
 - [caffe-android-lib](https://github.com/sh1r0/caffe-android-lib)
+- [caffe-ios](https://github.com/aleph7/caffe/)
 
 ### 5.5 Distributed computing
 - [SparkNet](https://github.com/amplab/SparkNet)
