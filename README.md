@@ -57,6 +57,10 @@ If you want to contribute to this list and the examples, please open a new pull 
 ### 2.7 Images Generation
 - [cnn-vis](https://github.com/jcjohnson/cnn-vis)
 
+### 2.8 Self-driving
+- [DeepDrive](http://deepdrive.io/)
+
+
 ## <a name="NLP">3. NLP
 - [NLP-Caffe](https://github.com/Russell91/nlpcaffe)
 - [Sentiment Analysis](http://city.shaform.com/blog/2015/06/06/caffe-sentiment-analysis.html)
