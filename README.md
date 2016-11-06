@@ -41,8 +41,9 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [DeconvNet: Learning Deconvolution Network for Semantic Segmentation](https://github.com/HyeonwooNoh/DeconvNet)
 - [Fully Convolutional Networks for Semantic Segmentation](https://github.com/shelhamer/fcn.berkeleyvision.org)
 
-### 2.4 Face Recognition
+### 2.4 Face Detection / Recognition / Verification
 - [Center Loss](https://github.com/ydwen/caffe-face)
+- [MTCNN_face_detection_alignment](https://github.com/DaFuCoding/MTCNN_Caffe)
 - [VGG-Face](http://www.robots.ox.ac.uk/~vgg/software/vgg_face/)
 - [TripletLoss(FaceNet)](https://github.com/pinguo-luhaofang/tripletloss)
 
