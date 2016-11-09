@@ -18,7 +18,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 ## <a name="Tutorials"></a>1. Tutorials
 - [DIY Deep Learning for Vision with Caffe](https://docs.google.com/presentation/d/1UeKXVgRvvxg9OUdh_UiC5G71UMscNPlvArsWER41PsU/edit#slide=id.p)
 - [Tutorial Documentation](http://caffe.berkeleyvision.org/tutorial/)
-- [Tutorial Documentation (CN)](http://caffecn.cn/?/page/tutorial)
+- [Tutorial Documentation (Simplified Chinese)](http://caffecn.cn/?/page/tutorial)
 
 ## <a name="Vision"></a>2. Vision
 ### 2.1 Image Classification
