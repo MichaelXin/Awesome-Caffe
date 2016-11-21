@@ -33,11 +33,13 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [R-FCN](https://github.com/daijifeng001/R-FCN)
 - [SSD: Single Shot MultiBox Detector](https://github.com/weiliu89/caffe/tree/ssd)
 - [YOLO in caffe](https://github.com/xingwangsfu/caffe-yolo)
+- [DeepBox](https://github.com/weichengkuo/DeepBox)
 - [Faster R-CNN](https://github.com/rbgirshick/py-faster-rcnn)
 - [Fast R-CNN](https://github.com/rbgirshick/fast-rcnn)
 
 ### 2.3 Image Segmentation
 - [CRF-RNN](https://github.com/torrvision/crfasrnn)
+- [SegNet](https://github.com/alexgkendall/caffe-segnet)
 - [DeconvNet: Learning Deconvolution Network for Semantic Segmentation](https://github.com/HyeonwooNoh/DeconvNet)
 - [Fully Convolutional Networks for Semantic Segmentation](https://github.com/shelhamer/fcn.berkeleyvision.org)
 
@@ -55,10 +57,13 @@ If you want to contribute to this list and the examples, please open a new pull 
 ### 2.6 Object Tracking
 - [FCNT](https://github.com/scott89/FCNT)
 
-### 2.7 Images Generation
+### 2.7 Scene Classification
+- [Places CNN](http://places.csail.mit.edu/downloadCNN.html)
+
+### 2.8 Images Generation
 - [cnn-vis](https://github.com/jcjohnson/cnn-vis)
 
-### 2.8 Self-driving
+### 2.9 Self-driving
 - [DeepDrive](http://deepdrive.io/)
 
 
