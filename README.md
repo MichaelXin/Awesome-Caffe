@@ -96,10 +96,14 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [caffe-android-lib](https://github.com/sh1r0/caffe-android-lib)
 - [caffe-ios](https://github.com/aleph7/caffe/)
 
-### 5.5 Distributed computing
+### 5.5 Intel and AMD
+- [Intel® Xeon Phi™](https://software.intel.com/en-us/articles/caffe-optimized-for-intel-architecture-applying-modern-code-techniques) 
+- [OpenCL-caffe](https://github.com/amd/OpenCL-caffe)
+
+### 5.6 Distributed computing
 - [SparkNet](https://github.com/amplab/SparkNet)
 - [CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
 - [petuum/bosen ](https://github.com/petuum/bosen)
 
-### 5.6 Net Builder
+### 5.7 Net Builder
 - [pynetbuilder](https://github.com/jay-mahadeokar/pynetbuilder)
