@@ -88,22 +88,25 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [LabelImg](https://github.com/tzutalin/labelImg)
 - [BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-Tool)
 
-### 5.3 Visualization
+### 5.3 Parameter Search
+- [Spearmint](https://github.com/kuz/caffe-with-spearmint)
+
+### 5.4 Visualization
 - [deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox)
 - [DeepDraw](https://github.com/auduno/deepdraw)
 
-### 5.4 Mobile Platform
+### 5.5 Mobile Platform
 - [caffe-android-lib](https://github.com/sh1r0/caffe-android-lib)
 - [caffe-ios](https://github.com/aleph7/caffe/)
 
-### 5.5 Intel and AMD
+### 5.6 Intel and AMD
 - [Intel® Xeon Phi™](https://software.intel.com/en-us/articles/caffe-optimized-for-intel-architecture-applying-modern-code-techniques) 
 - [OpenCL-caffe](https://github.com/amd/OpenCL-caffe)
 
-### 5.6 Distributed computing
+### 5.7 Distributed computing
 - [SparkNet](https://github.com/amplab/SparkNet)
 - [CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
 - [petuum/bosen ](https://github.com/petuum/bosen)
 
-### 5.7 Net Builder
+### 5.8 Net Builder
 - [pynetbuilder](https://github.com/jay-mahadeokar/pynetbuilder)
