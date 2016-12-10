@@ -30,6 +30,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 
 
 ### 2.2 Object Detection
+- [PVANet](https://github.com/sanghoon/pva-faster-rcnn)
 - [R-FCN](https://github.com/Orpine/py-R-FCN)
 - [SSD: Single Shot MultiBox Detector](https://github.com/weiliu89/caffe/tree/ssd)
 - [YOLO in caffe](https://github.com/xingwangsfu/caffe-yolo)
