@@ -22,6 +22,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 
 ## <a name="Vision"></a>2. Vision
 ### 2.1 Image Classification
+- [denseNet](https://github.com/liuzhuang13/DenseNet)
 - [Deep Residual Networks](https://github.com/KaimingHe/deep-residual-networks)
 - [Highway Networks](https://github.com/flukeskywalker/highway-networks)
 - [Deep-Compression-AlexNet](https://github.com/songhan/Deep-Compression-AlexNet)
