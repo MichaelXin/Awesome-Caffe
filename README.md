@@ -86,6 +86,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 ### 5.1 Converter
 - [caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow)
 - [caffe-theano-conversion](https://github.com/kitofans/caffe-theano-conversion)
+- [CaffeToKeras](https://github.com/MarcBS/keras)
 
 ### 5.2 LabelImg
 - [LabelImg](https://github.com/tzutalin/labelImg)
