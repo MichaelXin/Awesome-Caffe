@@ -16,7 +16,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 ============================================================================================================
 ## <a name="Books"></a>Books
 - [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
-- [Deep Learning (Simplified Chinese)]（https://github.com/exacity/deeplearningbook-chinese）
+- [Deep Learning (Simplified Chinese)](https://github.com/exacity/deeplearningbook-chinese)
 
 ## <a name="Tutorials"></a>1. Tutorials
 - [DIY Deep Learning for Vision with Caffe](https://docs.google.com/presentation/d/1UeKXVgRvvxg9OUdh_UiC5G71UMscNPlvArsWER41PsU/edit#slide=id.p)
