@@ -69,6 +69,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 
 ### 2.8 Images Generation
 - [cnn-vis](https://github.com/jcjohnson/cnn-vis)
+- [style-transfer](https://github.com/fzliu/style-transfer)
 
 ### 2.9 Self-driving
 - [DeepDrive](http://deepdrive.io/)
