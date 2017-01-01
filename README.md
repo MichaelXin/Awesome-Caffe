@@ -67,11 +67,14 @@ If you want to contribute to this list and the examples, please open a new pull 
 ### 2.7 Scene Classification
 - [Places CNN](http://places.csail.mit.edu/downloadCNN.html)
 
-### 2.8 Images Generation
+### 2.8 Image Super-resolution
+- [SRCNN](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
+
+### 2.9 Images Generation
 - [cnn-vis](https://github.com/jcjohnson/cnn-vis)
 - [style-transfer](https://github.com/fzliu/style-transfer)
 
-### 2.9 Self-driving
+### 2.10 Self-driving
 - [DeepDrive](http://deepdrive.io/)
 
 
