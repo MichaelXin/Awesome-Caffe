@@ -73,6 +73,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 ### 2.9 Images Generation
 - [cnn-vis](https://github.com/jcjohnson/cnn-vis)
 - [style-transfer](https://github.com/fzliu/style-transfer)
+- [Colorful Image Colorization](https://github.com/richzhang/colorization)
 
 ### 2.10 Self-driving
 - [DeepDrive](http://deepdrive.io/)
