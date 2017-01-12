@@ -42,6 +42,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [DeepBox](https://github.com/weichengkuo/DeepBox)
 - [Faster R-CNN](https://github.com/rbgirshick/py-faster-rcnn)
 - [Fast R-CNN](https://github.com/rbgirshick/fast-rcnn)
+- [caffe-yolo](https://github.com/xingwangsfu/caffe-yolo)
 
 ### 2.3 Image Segmentation
 - [DeepLab](https://bitbucket.org/aquariusjay/deeplab-public-ver2)
@@ -60,7 +61,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [C3D](https://github.com/facebook/C3D)
 - [TDD](https://github.com/wanglimin/TDD)
 - [LRCN](https://github.com/LisaAnne/lisa-caffe-public/tree/lstm_video_deploy)
- 
+
 ### 2.6 Object Tracking
 - [FCNT](https://github.com/scott89/FCNT)
 
@@ -77,7 +78,8 @@ If you want to contribute to this list and the examples, please open a new pull 
 
 ### 2.10 Self-driving
 - [DeepDrive](http://deepdrive.io/)
-
+- [Berkeley DeepDrive](http://bdd.berkeley.edu/)
+- [Princeton deepdriving](http://deepdriving.cs.princeton.edu/)
 
 ## <a name="NLP">3. NLP
 - [NLP-Caffe](https://github.com/Russell91/nlpcaffe)
@@ -100,6 +102,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 ### 5.2 LabelImg
 - [LabelImg](https://github.com/tzutalin/labelImg)
 - [BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-Tool)
+- [FastAnnotationTool](https://github.com/christopher5106/FastAnnotationTool)
 
 ### 5.3 Parameter Search
 - [Spearmint](https://github.com/kuz/caffe-with-spearmint)
@@ -113,7 +116,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [caffe-ios](https://github.com/aleph7/caffe/)
 
 ### 5.6 Intel and AMD
-- [Intel® Xeon Phi™](https://software.intel.com/en-us/articles/caffe-optimized-for-intel-architecture-applying-modern-code-techniques) 
+- [Intel® Xeon Phi™](https://software.intel.com/en-us/articles/caffe-optimized-for-intel-architecture-applying-modern-code-techniques)
 - [OpenCL-caffe](https://github.com/amd/OpenCL-caffe)
 
 ### 5.7 Distributed computing
