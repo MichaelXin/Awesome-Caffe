@@ -27,70 +27,70 @@ If you want to contribute to this list and the examples, please open a new pull 
 
 
 ## <a name="Vision"></a>2. Vision
-### 2.1 Image Classification
-- [ResNet-v3](https://github.com/terrychenism/ResNeXt)
-- [denseNet](https://github.com/liuzhuang13/DenseNet)
-- [Deep Residual Networks](https://github.com/KaimingHe/deep-residual-networks)
-- [Highway Networks](https://github.com/flukeskywalker/highway-networks)
-- [Deep-Compression-AlexNet](https://github.com/songhan/Deep-Compression-AlexNet)
-- [SqueezeNet](https://github.com/DeepScale/SqueezeNet)
-- [GoogleNet-V2](https://github.com/lim0606/caffe-googlenet-bn)
+>> ### 2.1 Image Classification
+>> - [ResNet-v3](https://github.com/terrychenism/ResNeXt)
+>> - [denseNet](https://github.com/liuzhuang13/DenseNet)
+>> - [Deep Residual Networks](https://github.com/KaimingHe/deep-residual-networks)
+>> - [Highway Networks](https://github.com/flukeskywalker/highway-networks)
+>> - [Deep-Compression-AlexNet](https://github.com/songhan/Deep-Compression-AlexNet)
+>> - [SqueezeNet](https://github.com/DeepScale/SqueezeNet)
+>> - [GoogleNet-V2](https://github.com/lim0606/caffe-googlenet-bn)
 
-### 2.2 Object Detection
-- [PVANet](https://github.com/sanghoon/pva-faster-rcnn)
-- [R-FCN](https://github.com/Orpine/py-R-FCN)
-- [SSD: Single Shot MultiBox Detector](https://github.com/weiliu89/caffe/tree/ssd)
-- [YOLO in caffe](https://github.com/xingwangsfu/caffe-yolo)
-- [DeepBox](https://github.com/weichengkuo/DeepBox)
-- [Faster R-CNN](https://github.com/rbgirshick/py-faster-rcnn)
-- [Fast R-CNN](https://github.com/rbgirshick/fast-rcnn)
+>> ### 2.2 Object Detection
+>> - [PVANet](https://github.com/sanghoon/pva-faster-rcnn)
+>> - [R-FCN](https://github.com/Orpine/py-R-FCN)
+>> - [SSD: Single Shot MultiBox Detector](https://github.com/weiliu89/caffe/tree/ssd)
+>> - [YOLO in caffe](https://github.com/xingwangsfu/caffe-yolo)
+>> - [DeepBox](https://github.com/weichengkuo/DeepBox)
+>> - [Faster R-CNN](https://github.com/rbgirshick/py-faster-rcnn)
+>> - [Fast R-CNN](https://github.com/rbgirshick/fast-rcnn)
 
-### 2.3 Image Segmentation
-- [DeepLab](https://bitbucket.org/aquariusjay/deeplab-public-ver2)
-- [CRF-RNN](https://github.com/torrvision/crfasrnn)
-- [SegNet](https://github.com/alexgkendall/caffe-segnet)
-- [DeconvNet: Learning Deconvolution Network for Semantic Segmentation](https://github.com/HyeonwooNoh/DeconvNet)
-- [Fully Convolutional Networks for Semantic Segmentation](https://github.com/shelhamer/fcn.berkeleyvision.org)
+>> ### 2.3 Image Segmentation
+>> - [DeepLab](https://bitbucket.org/aquariusjay/deeplab-public-ver2)
+>> - [CRF-RNN](https://github.com/torrvision/crfasrnn)
+>> - [SegNet](https://github.com/alexgkendall/caffe-segnet)
+>> - [DeconvNet: Learning Deconvolution Network for Semantic Segmentation](https://github.com/HyeonwooNoh/DeconvNet)
+>> - [Fully Convolutional Networks for Semantic Segmentation](https://github.com/shelhamer/fcn.berkeleyvision.org)
 
-### 2.4 Face Detection / Recognition / Verification
-- [Center Loss](https://github.com/ydwen/caffe-face)
-- [MTCNN_face_detection_alignment](https://github.com/DaFuCoding/MTCNN_Caffe)
-- [VGG-Face](http://www.robots.ox.ac.uk/~vgg/software/vgg_face/)
-- [TripletLoss(FaceNet)](https://github.com/pinguo-luhaofang/tripletloss)
+>> ### 2.4 Face Detection / Recognition / Verification
+>> - [Center Loss](https://github.com/ydwen/caffe-face)
+>> - [MTCNN_face_detection_alignment](https://github.com/DaFuCoding/MTCNN_Caffe)
+>> - [VGG-Face](http://www.robots.ox.ac.uk/~vgg/software/vgg_face/)
+>> - [TripletLoss(FaceNet)](https://github.com/pinguo-luhaofang/tripletloss)
 
-### 2.5 Action Recognition
-- [C3D](https://github.com/facebook/C3D)
-- [TDD](https://github.com/wanglimin/TDD)
-- [LRCN](https://github.com/LisaAnne/lisa-caffe-public/tree/lstm_video_deploy)
+>> ### 2.5 Action Recognition
+>> - [C3D](https://github.com/facebook/C3D)
+>> - [TDD](https://github.com/wanglimin/TDD)
+>> - [LRCN](https://github.com/LisaAnne/lisa-caffe-public/tree/lstm_video_deploy)
 
-### 2.6 Object Tracking
-- [FCNT](https://github.com/scott89/FCNT)
+>> ### 2.6 Object Tracking
+>> - [FCNT](https://github.com/scott89/FCNT)
 
-### 2.7 Scene Classification
-- [Places CNN](http://places.csail.mit.edu/downloadCNN.html)
+>> ### 2.7 Scene Classification
+>> - [Places CNN](http://places.csail.mit.edu/downloadCNN.html)
 
-### 2.8 Image Super-resolution
-- [SRCNN](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
+>> ### 2.8 Image Super-resolution
+>> - [SRCNN](http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html)
 
-### 2.9 Images Generation
-- [cnn-vis](https://github.com/jcjohnson/cnn-vis)
-- [style-transfer](https://github.com/fzliu/style-transfer)
-- [Colorful Image Colorization](https://github.com/richzhang/colorization)
+>> ### 2.9 Images Generation
+>> - [cnn-vis](https://github.com/jcjohnson/cnn-vis)
+>> - [style-transfer](https://github.com/fzliu/style-transfer)
+>> - [Colorful Image Colorization](https://github.com/richzhang/colorization)
 
-### 2.10 Self-driving
-- [DeepDrive](http://deepdrive.io/)
-- [Berkeley DeepDrive](http://bdd.berkeley.edu/)
-- [Princeton deepdriving](http://deepdriving.cs.princeton.edu/)
+>> ### 2.10 Self-driving
+>> - [DeepDrive](http://deepdrive.io/)
+>> - [Berkeley DeepDrive](http://bdd.berkeley.edu/)
+>> - [Princeton deepdriving](http://deepdriving.cs.princeton.edu/)
 
 
 ## <a name="NLP">3. NLP
-- [NLP-Caffe](https://github.com/Russell91/nlpcaffe)
-- [Sentiment Analysis](http://city.shaform.com/blog/2015/06/06/caffe-sentiment-analysis.html)
+>> - [NLP-Caffe](https://github.com/Russell91/nlpcaffe)
+>> - [Sentiment Analysis](http://city.shaform.com/blog/2015/06/06/caffe-sentiment-analysis.html)
 
 
 ## <a name="Speech">4. Speech
-- [Speech Recognition](https://github.com/pannous/caffe-speech-recognition)
-- [Kaldi](https://github.com/kaldi-asr/kaldi)
+>> - [Speech Recognition](https://github.com/pannous/caffe-speech-recognition)
+>> - [Kaldi](https://github.com/kaldi-asr/kaldi)
 
 
 ## <a name="Building"></a>5. Building Blocks
