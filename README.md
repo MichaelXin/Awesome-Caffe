@@ -11,7 +11,8 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [2. Vision](#Vision)
 - [3. NLP](#NLP)
 - [4. Speech](#Speech)
-- [5. Tools](#Tools)
+- [5. Building Blocks](#Building)
+- [6. Tools](#Tools)
 
 ============================================================================================================
 ## <a name="Books"></a>Books
@@ -92,44 +93,44 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [Kaldi](https://github.com/kaldi-asr/kaldi)
 
 
-## <a name="Building Blocks"></a>5. Tools
-### 5.1 Initialization
-- [k-means initialization](https://github.com/philkr/magic_init)
-- [LSUV](https://github.com/ducha-aiki/LSUVinit)
+## <a name="Building"></a>5. Building Blocks
+>> ### 5.1 Initialization
+>> - [k-means initialization](https://github.com/philkr/magic_init)
+>> - [LSUV](https://github.com/ducha-aiki/LSUVinit)
 
 ### 5.2 Activation Function
-TODO
+>> TODO
 
 ## <a name="Tools"></a>6. Tools
-### 6.1 Converter
-- [caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow)
-- [caffe-theano-conversion](https://github.com/kitofans/caffe-theano-conversion)
-- [CaffeToKeras](https://github.com/MarcBS/keras)
+>> ### 6.1 Converter
+>> - [caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow)
+>> - [caffe-theano-conversion](https://github.com/kitofans/caffe-theano-conversion)
+>> - [CaffeToKeras](https://github.com/MarcBS/keras)
 
-### 6.2 Labeling
-- [LabelImg](https://github.com/tzutalin/labelImg)
-- [BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-Tool)
-- [FastAnnotationTool](https://github.com/christopher5106/FastAnnotationTool)
+>> ### 6.2 Labeling
+>> - [LabelImg](https://github.com/tzutalin/labelImg)
+>> - [BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-Tool)
+>> - [FastAnnotationTool](https://github.com/christopher5106/FastAnnotationTool)
 
-### 6.3 Parameter Search
-- [Spearmint](https://github.com/kuz/caffe-with-spearmint)
+>> ### 6.3 Parameter Search
+>> - [Spearmint](https://github.com/kuz/caffe-with-spearmint)
 
-### 6.4 Visualization
-- [deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox)
-- [DeepDraw](https://github.com/auduno/deepdraw)
+>> ### 6.4 Visualization
+>> - [deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox)
+>> - [DeepDraw](https://github.com/auduno/deepdraw)
 
-### 6.5 Mobile Platform
-- [caffe-android-lib](https://github.com/sh1r0/caffe-android-lib)
-- [caffe-ios](https://github.com/aleph7/caffe/)
+>> ### 6.5 Mobile Platform
+>> - [caffe-android-lib](https://github.com/sh1r0/caffe-android-lib)
+>> - [caffe-ios](https://github.com/aleph7/caffe/)
 
-### 6.6 Intel and AMD
-- [Intel® Xeon Phi™](https://software.intel.com/en-us/articles/caffe-optimized-for-intel-architecture-applying-modern-code-techniques)
-- [OpenCL-caffe](https://github.com/amd/OpenCL-caffe)
+>> ### 6.6 Intel and AMD
+>> - [Intel® Xeon Phi™](https://software.intel.com/en-us/articles/caffe-optimized-for-intel-architecture-applying-modern-code-techniques)
+>> - [OpenCL-caffe](https://github.com/amd/OpenCL-caffe)
 
-### 6.7 Distributed computing
-- [SparkNet](https://github.com/amplab/SparkNet)
-- [CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
-- [petuum/bosen ](https://github.com/petuum/bosen)
+>> ### 6.7 Distributed computing
+>> - [SparkNet](https://github.com/amplab/SparkNet)
+>> - [CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
+>> - [petuum/bosen ](https://github.com/petuum/bosen)
 
-### 6.8 Net Builder
-- [pynetbuilder](https://github.com/jay-mahadeokar/pynetbuilder)
+>> ### 6.8 Net Builder
+>> - [pynetbuilder](https://github.com/jay-mahadeokar/pynetbuilder)
