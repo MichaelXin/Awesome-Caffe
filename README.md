@@ -18,10 +18,12 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](http://www.deeplearningbook.org/)
 - [Deep Learning (Simplified Chinese)](https://github.com/exacity/deeplearningbook-chinese)
 
+
 ## <a name="Tutorials"></a>1. Tutorials
 - [DIY Deep Learning for Vision with Caffe](https://docs.google.com/presentation/d/1UeKXVgRvvxg9OUdh_UiC5G71UMscNPlvArsWER41PsU/edit#slide=id.p)
 - [Tutorial Documentation](http://caffe.berkeleyvision.org/tutorial/)
 - [Tutorial Documentation (Simplified Chinese)](http://caffecn.cn/?/page/tutorial)
+
 
 ## <a name="Vision"></a>2. Vision
 ### 2.1 Image Classification
@@ -33,7 +35,6 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [SqueezeNet](https://github.com/DeepScale/SqueezeNet)
 - [GoogleNet-V2](https://github.com/lim0606/caffe-googlenet-bn)
 
-
 ### 2.2 Object Detection
 - [PVANet](https://github.com/sanghoon/pva-faster-rcnn)
 - [R-FCN](https://github.com/Orpine/py-R-FCN)
@@ -42,7 +43,6 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [DeepBox](https://github.com/weichengkuo/DeepBox)
 - [Faster R-CNN](https://github.com/rbgirshick/py-faster-rcnn)
 - [Fast R-CNN](https://github.com/rbgirshick/fast-rcnn)
-- [caffe-yolo](https://github.com/xingwangsfu/caffe-yolo)
 
 ### 2.3 Image Segmentation
 - [DeepLab](https://bitbucket.org/aquariusjay/deeplab-public-ver2)
@@ -81,10 +81,10 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [Berkeley DeepDrive](http://bdd.berkeley.edu/)
 - [Princeton deepdriving](http://deepdriving.cs.princeton.edu/)
 
+
 ## <a name="NLP">3. NLP
 - [NLP-Caffe](https://github.com/Russell91/nlpcaffe)
 - [Sentiment Analysis](http://city.shaform.com/blog/2015/06/06/caffe-sentiment-analysis.html)
-
 
 
 ## <a name="Speech">4. Speech
@@ -92,37 +92,44 @@ If you want to contribute to this list and the examples, please open a new pull 
 - [Kaldi](https://github.com/kaldi-asr/kaldi)
 
 
+## <a name="Building Blocks"></a>5. Tools
+### 5.1 Initialization
+- [k-means initialization](https://github.com/philkr/magic_init)
+- [LSUV](https://github.com/ducha-aiki/LSUVinit)
 
-## <a name="Tools"></a>5. Tools
-### 5.1 Converter
+### 5.2 Activation Function
+TODO
+
+## <a name="Tools"></a>6. Tools
+### 6.1 Converter
 - [caffe-tensorflow](https://github.com/ethereon/caffe-tensorflow)
 - [caffe-theano-conversion](https://github.com/kitofans/caffe-theano-conversion)
 - [CaffeToKeras](https://github.com/MarcBS/keras)
 
-### 5.2 LabelImg
+### 6.2 Labeling
 - [LabelImg](https://github.com/tzutalin/labelImg)
 - [BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-Tool)
 - [FastAnnotationTool](https://github.com/christopher5106/FastAnnotationTool)
 
-### 5.3 Parameter Search
+### 6.3 Parameter Search
 - [Spearmint](https://github.com/kuz/caffe-with-spearmint)
 
-### 5.4 Visualization
+### 6.4 Visualization
 - [deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox)
 - [DeepDraw](https://github.com/auduno/deepdraw)
 
-### 5.5 Mobile Platform
+### 6.5 Mobile Platform
 - [caffe-android-lib](https://github.com/sh1r0/caffe-android-lib)
 - [caffe-ios](https://github.com/aleph7/caffe/)
 
-### 5.6 Intel and AMD
+### 6.6 Intel and AMD
 - [Intel® Xeon Phi™](https://software.intel.com/en-us/articles/caffe-optimized-for-intel-architecture-applying-modern-code-techniques)
 - [OpenCL-caffe](https://github.com/amd/OpenCL-caffe)
 
-### 5.7 Distributed computing
+### 6.7 Distributed computing
 - [SparkNet](https://github.com/amplab/SparkNet)
 - [CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
 - [petuum/bosen ](https://github.com/petuum/bosen)
 
-### 5.8 Net Builder
+### 6.8 Net Builder
 - [pynetbuilder](https://github.com/jay-mahadeokar/pynetbuilder)
