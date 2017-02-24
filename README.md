@@ -98,7 +98,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [k-means initialization](https://github.com/philkr/magic_init)
 >> - [LSUV](https://github.com/ducha-aiki/LSUVinit)
 
-### 5.2 Activation Function
+>> ### 5.2 Activation Function
 >> TODO
 
 ## <a name="Tools"></a>6. Tools
@@ -127,10 +127,12 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [Intel® Xeon Phi™](https://software.intel.com/en-us/articles/caffe-optimized-for-intel-architecture-applying-modern-code-techniques)
 >> - [OpenCL-caffe](https://github.com/amd/OpenCL-caffe)
 
->> ### 6.7 Distributed computing
+>> ### 6.7 Parallel and Distributed computing
+>> - [A multi-GPU and memory-reduced MAT-Caffe](https://github.com/sciencefans/CaffeMex_v2)
 >> - [SparkNet](https://github.com/amplab/SparkNet)
 >> - [CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
 >> - [petuum/bosen ](https://github.com/petuum/bosen)
+
 
 >> ### 6.8 Net Builder
 >> - [pynetbuilder](https://github.com/jay-mahadeokar/pynetbuilder)
