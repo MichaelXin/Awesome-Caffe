@@ -36,7 +36,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [SqueezeNet](https://github.com/DeepScale/SqueezeNet)
 >> - [GoogleNet-V2](https://github.com/lim0606/caffe-googlenet-bn)
 
->> ### 2.2 Object Detection
+s>> ### 2.2 Object Detection
 >> - [PVANet](https://github.com/sanghoon/pva-faster-rcnn)
 >> - [R-FCN](https://github.com/Orpine/py-R-FCN)
 >> - [SSD: Single Shot MultiBox Detector](https://github.com/weiliu89/caffe/tree/ssd)
@@ -76,6 +76,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [cnn-vis](https://github.com/jcjohnson/cnn-vis)
 >> - [style-transfer](https://github.com/fzliu/style-transfer)
 >> - [Colorful Image Colorization](https://github.com/richzhang/colorization)
+>> - [Coupled Face Generation](https://github.com/mingyuliutw/CoGAN)
 
 >> ### 2.10 Self-driving
 >> - [DeepDrive](http://deepdrive.io/)
