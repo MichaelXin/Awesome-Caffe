@@ -46,6 +46,7 @@ s>> ### 2.2 Object Detection
 >> - [Fast R-CNN](https://github.com/rbgirshick/fast-rcnn)
 
 >> ### 2.3 Image Segmentation
+>> - [Mask R-CNN](https://github.com/jasjeetIM/Mask-RCNN)
 >> - [DeepLab](https://bitbucket.org/aquariusjay/deeplab-public-ver2)
 >> - [CRF-RNN](https://github.com/torrvision/crfasrnn)
 >> - [SegNet](https://github.com/alexgkendall/caffe-segnet)
@@ -76,6 +77,7 @@ s>> ### 2.2 Object Detection
 >> - [cnn-vis](https://github.com/jcjohnson/cnn-vis)
 >> - [style-transfer](https://github.com/fzliu/style-transfer)
 >> - [Colorful Image Colorization](https://github.com/richzhang/colorization)
+
 >> - [Coupled Face Generation](https://github.com/mingyuliutw/CoGAN)
 
 >> ### 2.10 Self-driving
@@ -113,27 +115,32 @@ s>> ### 2.2 Object Detection
 >> - [BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-Tool)
 >> - [FastAnnotationTool](https://github.com/christopher5106/FastAnnotationTool)
 
->> ### 6.3 Parameter Search
+>> ### 6.3 Data Augmentation
+>> - [Augmentor](https://github.com/mdbloice/Augmentor)
+
+>> ### 6.4 Parameter Search
 >> - [Spearmint](https://github.com/kuz/caffe-with-spearmint)
 
->> ### 6.4 Visualization
+>> ### 6.5 Visualization
 >> - [deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox)
 >> - [DeepDraw](https://github.com/auduno/deepdraw)
 
->> ### 6.5 Mobile Platform
+>> ### 6.6 Mobile Platform
+>> - [ShuffleNet](https://github.com/farmingyard/ShuffleNet)
 >> - [caffe-android-lib](https://github.com/sh1r0/caffe-android-lib)
 >> - [caffe-ios](https://github.com/aleph7/caffe/)
 
->> ### 6.6 Intel and AMD
+>> ### 6.7 Intel and AMD
+>> - [hipCaffe-AMD’s Radeon Instinct GPUs](https://github.com/ROCmSoftwarePlatform/hipCaffe)
 >> - [Intel® Xeon Phi™](https://software.intel.com/en-us/articles/caffe-optimized-for-intel-architecture-applying-modern-code-techniques)
 >> - [OpenCL-caffe](https://github.com/amd/OpenCL-caffe)
 
->> ### 6.7 Parallel and Distributed computing
+>> ### 6.8 Parallel and Distributed computing
 >> - [A multi-GPU and memory-reduced MAT-Caffe](https://github.com/sciencefans/CaffeMex_v2)
 >> - [SparkNet](https://github.com/amplab/SparkNet)
 >> - [CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
 >> - [petuum/bosen ](https://github.com/petuum/bosen)
 
 
->> ### 6.8 Net Builder
+>> ### 6.9 Net Builder
 >> - [pynetbuilder](https://github.com/jay-mahadeokar/pynetbuilder)
