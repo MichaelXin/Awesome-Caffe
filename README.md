@@ -36,7 +36,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [SqueezeNet](https://github.com/DeepScale/SqueezeNet)
 >> - [GoogleNet-V2](https://github.com/lim0606/caffe-googlenet-bn)
 
-s>> ### 2.2 Object Detection
+>> ### 2.2 Object Detection
 >> - [PVANet](https://github.com/sanghoon/pva-faster-rcnn)
 >> - [R-FCN](https://github.com/Orpine/py-R-FCN)
 >> - [SSD: Single Shot MultiBox Detector](https://github.com/weiliu89/caffe/tree/ssd)
@@ -111,6 +111,7 @@ s>> ### 2.2 Object Detection
 >> - [CaffeToKeras](https://github.com/MarcBS/keras)
 
 >> ### 6.2 Labeling
+>> - [labelme](https://github.com/wkentaro/labelme)
 >> - [LabelImg](https://github.com/tzutalin/labelImg)
 >> - [BBox-Label-Tool](https://github.com/puzzledqs/BBox-Label-Tool)
 >> - [FastAnnotationTool](https://github.com/christopher5106/FastAnnotationTool)
