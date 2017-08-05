@@ -77,7 +77,6 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [cnn-vis](https://github.com/jcjohnson/cnn-vis)
 >> - [style-transfer](https://github.com/fzliu/style-transfer)
 >> - [Colorful Image Colorization](https://github.com/richzhang/colorization)
-
 >> - [Coupled Face Generation](https://github.com/mingyuliutw/CoGAN)
 
 >> ### 2.10 Self-driving
@@ -85,6 +84,9 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [Berkeley DeepDrive](http://bdd.berkeley.edu/)
 >> - [Princeton deepdriving](http://deepdriving.cs.princeton.edu/)
 
+>> ### 2.11 Reinforcement Learning
+>> - [DRQN](https://github.com/mhauskn/dqn)
+>> - [DQN](https://github.com/muupan/dqn-in-the-caffe)
 
 ## <a name="NLP">3. NLP
 >> - [NLP-Caffe](https://github.com/Russell91/nlpcaffe)
