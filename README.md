@@ -58,6 +58,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [MTCNN_face_detection_alignment](https://github.com/DaFuCoding/MTCNN_Caffe)
 >> - [VGG-Face](http://www.robots.ox.ac.uk/~vgg/software/vgg_face/)
 >> - [TripletLoss(FaceNet)](https://github.com/pinguo-luhaofang/tripletloss)
+>> - [dockerface](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container.
 
 >> ### 2.5 Action Recognition
 >> - [C3D](https://github.com/facebook/C3D)
