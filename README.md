@@ -35,6 +35,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [Deep-Compression-AlexNet](https://github.com/songhan/Deep-Compression-AlexNet)
 >> - [SqueezeNet](https://github.com/DeepScale/SqueezeNet)
 >> - [GoogleNet-V2](https://github.com/lim0606/caffe-googlenet-bn)
+>> - [Oriented Response Networks](https://github.com/ZhouYanzhao/ORN)
 
 >> ### 2.2 Object Detection
 >> - [PVANet](https://github.com/sanghoon/pva-faster-rcnn)
