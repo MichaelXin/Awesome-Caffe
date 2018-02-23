@@ -62,6 +62,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [dockerface](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container.
 
 >> ### 2.5 Action Recognition
+>> - [UntrimmedNets](https://github.com/wanglimin/UntrimmedNet)
 >> - [C3D](https://github.com/facebook/C3D)
 >> - [TDD](https://github.com/wanglimin/TDD)
 >> - [LRCN](https://github.com/LisaAnne/lisa-caffe-public/tree/lstm_video_deploy)
