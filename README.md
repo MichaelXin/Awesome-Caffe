@@ -135,6 +135,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [ShuffleNet](https://github.com/farmingyard/ShuffleNet)
 >> - [caffe-android-lib](https://github.com/sh1r0/caffe-android-lib)
 >> - [caffe-ios](https://github.com/aleph7/caffe/)
+>> - [windows](https://github.com/dlunion/CC4.0)
 
 >> ### 6.7 Intel and AMD
 >> - [hipCaffe-AMD’s Radeon Instinct GPUs](https://github.com/ROCmSoftwarePlatform/hipCaffe)
