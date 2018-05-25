@@ -63,7 +63,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 
 >> ### 2.5 Action Recognition
 >> - [UntrimmedNets](https://github.com/wanglimin/UntrimmedNet)
->> - [C3D](https://github.com/facebook/C3D)
+>> - [C3D](https://github.com/chuckcho/video-caffe) (a recent version of Caffe)
 >> - [TDD](https://github.com/wanglimin/TDD)
 >> - [LRCN](https://github.com/LisaAnne/lisa-caffe-public/tree/lstm_video_deploy)
 
