@@ -132,6 +132,7 @@ If you want to contribute to this list and the examples, please open a new pull 
 >> - [DeepDraw](https://github.com/auduno/deepdraw)
 
 >> ### 6.6 Mobile Platform
+>> - [ncnn](https://github.com/Tencent/ncnn)
 >> - [ShuffleNet](https://github.com/farmingyard/ShuffleNet)
 >> - [caffe-android-lib](https://github.com/sh1r0/caffe-android-lib)
 >> - [caffe-ios](https://github.com/aleph7/caffe/)
