@@ -93,6 +93,9 @@ Feedback and contributions are welcome!
 >> - [DRQN](https://github.com/mhauskn/dqn)
 >> - [DQN](https://github.com/muupan/dqn-in-the-caffe)
 
+>> ## 2.12 Image Generation
+>> - [VAE](https://github.com/cdoersch/vae_tutorial)
+
 ## <a name="NLP">3. NLP
 >> - [NLP-Caffe](https://github.com/Russell91/nlpcaffe)
 >> - [Sentiment Analysis](http://city.shaform.com/blog/2015/06/06/caffe-sentiment-analysis.html)
