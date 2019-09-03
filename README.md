@@ -133,6 +133,7 @@ Feedback and contributions are welcome!
 >> - [Spearmint](https://github.com/kuz/caffe-with-spearmint)
 
 >> ### 6.5 Visualization
+>> - [netron](https://github.com/lutzroeder/netron)
 >> - [deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox)
 >> - [DeepDraw](https://github.com/auduno/deepdraw)
 
