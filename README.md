@@ -148,6 +148,7 @@ Feedback and contributions are welcome!
 >> - [hipCaffe-AMD’s Radeon Instinct GPUs](https://github.com/ROCmSoftwarePlatform/hipCaffe)
 >> - [Intel® Xeon Phi™](https://software.intel.com/en-us/articles/caffe-optimized-for-intel-architecture-applying-modern-code-techniques)
 >> - [OpenCL-caffe](https://github.com/amd/OpenCL-caffe)
+>> - [SkimCaffe](https://github.com/IntelLabs/SkimCaffe)
 
 >> ### 6.8 Parallel and Distributed computing
 >> - [A multi-GPU and memory-reduced MAT-Caffe](https://github.com/sciencefans/CaffeMex_v2)
